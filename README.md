@@ -13,4 +13,4 @@ This repository contains the **Dataset Builder AI Assistant**, a GPT-4o-powered 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/Capstone-Project.git
+   git clone https://github.com/AAAJacky/Capstone-Project.git
